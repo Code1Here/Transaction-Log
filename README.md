@@ -1,4 +1,4 @@
-# transaction_log
+# Transaction-Log
 A smart bank
 
 Data Structures
